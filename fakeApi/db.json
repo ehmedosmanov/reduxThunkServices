@@ -1,0 +1,94 @@
+{
+  "popularMenu": [
+    {
+      "id": 1,
+      "image": "https://xpressrow.com/html/cafena/cafena/assets/images/menu/menu-2-1.png",
+      "title": "Americano Rosted GRED",
+      "price": 11
+    },
+    {
+      "id": 2,
+      "image": "https://xpressrow.com/html/cafena/cafena/assets/images/menu/menu-2-2.png",
+      "title": "VIRGIN COFFEE GRED",
+      "price": 12
+    },
+    {
+      "id": 3,
+      "image": "https://xpressrow.com/html/cafena/cafena/assets/images/menu/menu-2-3.png",
+      "title": "JAPANIS COFFEE GRED",
+      "price": 7
+    },
+    {
+      "id": 4,
+      "image": "https://xpressrow.com/html/cafena/cafena/assets/images/menu/menu-2-4.png",
+      "title": "CAFÈ AU LAIT Coffee",
+      "price": 12
+    },
+    {
+      "id": 5,
+      "image": "https://xpressrow.com/html/cafena/cafena/assets/images/menu/menu-2-5.png",
+      "title": "ESPRESSO RISTRETTO",
+      "price": 12
+    },
+    {
+      "id": 6,
+      "image": "https://xpressrow.com/html/cafena/cafena/assets/images/menu/menu-2-6.png",
+      "title": "JAPANIS COFFEE GRED",
+      "price": 12
+    },
+    {
+      "name": "Salam",
+      "price": "123",
+      "id": 7
+    },
+    {
+      "title": "Salam",
+      "price": "123",
+      "id": 8
+    },
+    {
+      "title": "efeklqwegkqweg",
+      "price": "123",
+      "id": 9
+    },
+    {
+      "title": "efeklqwegkqweg",
+      "price": "dqwdqwdqwd",
+      "id": 10
+    },
+    {
+      "title": "Ehmed",
+      "price": "123123123",
+      "id": 11
+    },
+    {
+      "title": "qwdqwdq",
+      "price": "12312312",
+      "id": 12
+    },
+    {
+      "title": "qwdqwdq",
+      "price": "121231",
+      "id": 13
+    },
+    {
+      "title": "eeee",
+      "id": 14
+    },
+    {
+      "title": "eee",
+      "price": "123123",
+      "id": 15
+    },
+    {
+      "title": "qwdqwd",
+      "price": "123",
+      "id": 16
+    },
+    {
+      "title": "qwdqwdqw",
+      "price": "123123",
+      "id": 17
+    }
+  ]
+}
