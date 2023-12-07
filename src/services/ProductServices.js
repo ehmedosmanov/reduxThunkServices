@@ -6,6 +6,7 @@ const apiUrl = 'http://localhost:3000/popularMenu'
 const getAllProducts = createAsyncThunk('products/getAllProducts', async () => {
   try {
     const res = await axios.get(apiUrl)
+    console.log(res);
     return res.data
   } catch (error) {
     console.log('Error Fethcing', error)

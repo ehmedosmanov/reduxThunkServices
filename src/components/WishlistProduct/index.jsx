@@ -1,7 +1,13 @@
-import React from 'react'
+import React from "react";
+import './index.scss'
+const WishlistProduct = ({ id, title, price }) => {
+  return (
+    <div className="wishlist-product">
+      <h3>{title}</h3>
+      <span>{price}</span>
+      <button>Remove</button>
+    </div>
+  );
+};
 
-const BasketProduct = () => {
-  return <div>BasketProduct</div>
-}
-
-export default BasketProduct
+export default WishlistProduct;
